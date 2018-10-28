@@ -20,10 +20,10 @@ In this work I aim to explore the state of subconsciousness and the boundaries b
   <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/the_importance_of_being_yourself.jpg">
 </p>
 
-## Bad Influence
+## Two faced
 
 <p align="center">
-  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bad_influence.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/two_faced.jpg">
 </p>
 
 ## A Bridge to Subconsciousness
