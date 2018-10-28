@@ -11,24 +11,24 @@ In this work I aim to explore the state of subconsciousness and the boundaries b
 ## Tiger Awareness
 
 <p align="center">
-  <img width="1024" height="768" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/tiger_awareness.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/tiger_awareness.jpg">
 </p>
 
 ## The Importance of Being Yourself
 
 <p align="center">
-  <img width="1024" height="768" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/the_importance_of_being_yourself.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/the_importance_of_being_yourself.jpg">
 </p>
 
 ## Bad Influence
 
 <p align="center">
-  <img width="1024" height="768" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bad_influence.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bad_influence.jpg">
 </p>
 
 ## A Bridge to Subcounciousness
 
 <p align="center">
-  <img width="1024" height="768" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bridge_to_subcounciousness.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bridge_to_subcounciousness.jpg">
 </p>
 
