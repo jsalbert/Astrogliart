@@ -26,9 +26,9 @@ In this work I aim to explore the state of subconsciousness and the boundaries b
   <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bad_influence.jpg">
 </p>
 
-## A Bridge to Subcounciousness
+## A Bridge to Subconsciousness
 
 <p align="center">
-  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bridge_to_subcounciousness.jpg">
+  <img width="860" height="645" src="https://github.com/jsalbert/Astrogliart/blob/master/OBOD/bridge_to_subconsciousness.jpg">
 </p>
 
