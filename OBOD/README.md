@@ -55,6 +55,6 @@ The answer to the previous questions, as the interpretation of the presented art
 
 #### Copyright
 
-I allow the use of the images for showing them under citation of the work. 
+I allow the use of the images for exhibition under citation of the work. 
 
 I do not allow the selling of any piece of art exposed in the artwork. 
