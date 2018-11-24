@@ -1,4 +1,4 @@
-**See [Blog Publication](https://www.albertjimenez.xyz/projects/_obod)** 
+**See [Blog Publication](https://www.albertjimenez.xyz/blog/_obod)** 
 
 # On the Boundary of Dreams
 
