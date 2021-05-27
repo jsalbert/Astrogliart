@@ -1,5 +1,3 @@
-**See [Blog Publication](https://www.albertjimenez.xyz/blog/_obod)** 
-
 # On the Boundary of Dreams
 
 The genius Dalí, would put a tin plate on the floor and then sit by a chair beside it while holding a spoon with his hands over the plate. He would then try to fall asleep. Drifting between wakefulness and sleep, he would witness hallucinacions and distorted versions of reality. At the moment of falling sleep he would lose grip of the spoon and it would clang on the plate, waking him up and allowing him to capture his dream imagery. 
